@@ -1,8 +1,6 @@
-The repository is maintained by Dr. Rashid
+The repository is maintained by <a href="https://rashid-phy.github.io/me/index.html">Dr. Rashid</a>
 
 Email: rashid@just.edu.bd
-
-Visit: https://rashid-phy.github.io/me/index.html
 
 <h2>Graduate Thesis</h2>
 
