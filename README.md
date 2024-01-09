@@ -1,4 +1,4 @@
-The repository is maintained by <a href="https://rashid-phy.github.io/me/index.html">Dr. Rashid</a>
+The repository is maintained by <a href="https://just.edu.bd/t/rashid" target="_blank">Dr. Rashid</a>
 
 Email: rashid@just.edu.bd
 
