@@ -10,7 +10,7 @@ Email: rashid@just.edu.bd
 
 
 <hr style="height:5px;border-width:0;color:gray"> 
-<p><a href="https://phy80.github.io/Thesis/2021_MS201301_Salma_K2SeCl6.pdf">Most. Salmazahan Lovly (2021)</a></p>
+<p><a href="https://phy80.github.io/Thesis/2021_MS201301_Salma_K2SeCl6.pdf">Most. Salmazahan Lovly (2021)</a> [<a href="https://doi.org/10.1016/j.nxmate.2025.100512">Publication</a>]</p>
 <p><a href="https://phy80.github.io/Thesis/2021_MS201303_Arafat_K2TeCl6.pdf">Md. Arafat Hosein (2021)</a></p>
 
 
