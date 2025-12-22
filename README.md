@@ -7,7 +7,7 @@ Email: rashid@just.edu.bd
 
 <p><a href="https://phy80.github.io/Thesis/2022_MS211306_Rupa_K2AgXI6.pdf">Rupa Yasmin (2022)</a></p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211307_Shahida_K2YAgBr6.pdf">Mst. Shahida Afrin (2022)</a></p>
-
+<p><a href="https://phy80.github.io/Thesis/2022_MS211311_Dil_Afroj_CaZr_O_Se.pdf">Mst. Dil Afroj (2022)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2025.114541">Publication</a>]</p>
 
 <hr style="height:5px;border-width:0;color:gray"> 
 <p><a href="https://phy80.github.io/Thesis/2021_MS201301_Salma_K2SeCl6.pdf">Most. Salmazahan Lovly (2021)</a> [<a href="https://doi.org/10.1016/j.nxmate.2025.100512">Publication</a>]</p>
