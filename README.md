@@ -5,6 +5,10 @@ Email: rashid@just.edu.bd
 <h2>Graduate Thesis</h2>
 
 
+<p><a href="https://phy80.github.io/Thesis/2023_MS221301_Moumita_Ba2NbRhO6.pdf">Moumita Khatun (2023)</a> [<a href="https://doi.org/10.1016/j.cocom.2026.e01294" target="_blank">Publication</a>]</p>
+
+
+<hr style="height:5px;border-width:0;color:gray"> 
 <p><a href="https://phy80.github.io/Thesis/2022_MS211306_Rupa_K2AgXI6.pdf">Rupa Yasmin (2022)</a></p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211307_Shahida_K2YAgBr6.pdf">Mst. Shahida Afrin (2022)</a></p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211311_Dil_Afroj_CaZr_O_Se.pdf">Mst. Dil Afroj (2022)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2025.114541" target="_blank">Publication</a>]</p>
