@@ -9,7 +9,7 @@ Email: rashid@just.edu.bd
 
 
 <hr style="height:5px;border-width:0;color:gray"> 
-<p><a href="https://phy80.github.io/Thesis/2022_MS211301_Kanij_Cs2KBiX6.pdf">Kanij Fatima (2022)</a></p> [<a href="https://doi.org/10.1016/j.matchemphys.2026.132755" target="_blank">Publication</a>]</p>
+<p><a href="https://phy80.github.io/Thesis/2022_MS211301_Kanij_Cs2KBiX6.pdf">Kanij Fatima (2022)</a> [<a href="https://doi.org/10.1016/j.matchemphys.2026.132755" target="_blank">Publication</a>]</p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211306_Rupa_K2AgXI6.pdf">Rupa Yasmin (2022)</a></p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211307_Shahida_K2YAgBr6.pdf">Mst. Shahida Afrin (2022)</a></p>
 <p><a href="https://phy80.github.io/Thesis/2022_MS211311_Dil_Afroj_CaZr_O_Se.pdf">Mst. Dil Afroj (2022)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2025.114541" target="_blank">Publication</a>]</p>
